@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakubu-manaf-0648a226a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://manaf-yakubu.github.io/My_Portfolio_Website/#contact))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://manaf-yakubu.github.io/My_Portfolio_Website](https://manaf-yakubu.github.io/My_Portfolio_Website/#contact))
 
 ## 🛠 Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
